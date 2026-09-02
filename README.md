@@ -15,29 +15,6 @@
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
 </p>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h2>👋 About me</h2>
-      <p>
-        🎓 Computer Software Engineering graduate from <b>PAF-IAST</b><br /><br />
-        💻 Full-stack developer working across <b>React, Next.js, TypeScript, .NET, and Python</b><br /><br />
-        🔐 Interested in the intersection of software engineering, automation, and security<br /><br />
-        🌍 Based in Rawalpindi, Pakistan - open to remote and on-site roles
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <h2>🎯 Current focus</h2>
-      <p>
-        ⚙️ Building practical DevOps and DevSecOps skills<br /><br />
-        ☁️ Learning cloud infrastructure and secure delivery<br /><br />
-        🧪 Improving automated testing and CI/CD practices<br /><br />
-        📚 IBM Applied DevOps Engineering + TryHackMe Security Engineer
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 🚀 Featured projects
 
 <table>
