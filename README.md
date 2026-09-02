@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Muhammad Saleh Janjua - Full-Stack Developer building toward DevOps and DevSecOps" />
+  <img src="./assets/header.svg" width="100%" alt="Muhammad Saleh Janjua - Full-Stack Software Engineer | DevOps Engineer | Product Engineer " />
 </p>
 
 <p align="center">
@@ -12,16 +12,16 @@
   <a href="mailto:MuhammadSalehJanjua@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Working" />
 </p>
 
-## 🚀 Featured projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/salesmayn-code/LinkPulse">LinkPulse</a></h3>
-      <p>Self-hostable URL shortener with protected analytics, link expiry, server-enforced ownership, and automated API/web tests.</p>
+      <h3><a href="https://github.com/salesmayn-code/LinkPulse">LinkPulse</a></h3>
+      <p>Self-hostable URL shortener with protected analytics, link expiry, server enforced ownership, and automated API/web tests.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
         <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
@@ -30,7 +30,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/salesmayn-code/Cryptojacking_Detection_Tool">CryptoDetect</a></h3>
+      <h3><a href="https://github.com/salesmayn-code/Cryptojacking_Detection_Tool">CryptoDetect</a></h3>
       <p>Final-year project combining a Windows monitoring agent, ML detection, FastAPI backend, and React dashboard for real-time cryptojacking visibility.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/salesmayn-code/ShieldStack">ShieldStack</a></h3>
+      <h3><a href="https://github.com/salesmayn-code/ShieldStack">ShieldStack</a></h3>
       <p>Hands-on DevSecOps roadmap connecting containers, infrastructure as code, security scanning, Kubernetes, GitOps, and observability.</p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -52,7 +52,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/salesmayn-code/portfolio">Developer Portfolio</a></h3>
+      <h3><a href="https://github.com/salesmayn-code/portfolio">Portfolio</a></h3>
       <p>Personal portfolio presenting my full-stack projects, technical background, experience, and growing DevOps direction.</p>
       <p>
         <a href="https://portfolio-salesmayn.vercel.app/">
@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-## 🧰 Technology stack
+## Technology stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,dotnet,python,fastapi&theme=dark&perline=8" alt="Application development technologies" />
@@ -73,15 +73,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,terraform,linux,git,githubactions&theme=dark&perline=8" alt="Database and DevOps technologies" />
 </p>
 
-<details>
-  <summary><b>🧭 How I am growing into DevSecOps</b></summary>
-  <br />
-  <p>
-    I am building on my full-stack foundation by learning how applications are containerized, tested, deployed, monitored, and secured. ShieldStack is the practical workspace for that journey: each phase turns a DevOps or security concept into something I can configure, run, test, and explain.
-  </p>
-</details>
-
-## 📊 GitHub activity
+## GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salesmayn-code&theme=tokyonight&hide_border=true" height="175" alt="GitHub contribution streak" />
@@ -91,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/salesmayn-code/salesmayn-code/profile-assets/activity-graph.svg" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
-## 🐍 Contribution trail
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -104,7 +96,7 @@
 ---
 
 <p align="center">
-  <b>Open to full-stack, backend, cloud, DevOps, and DevSecOps opportunities.</b>
+  <b>Open to full-stack, DevOps, and Product Engineering opportunities.</b>
   <br /><br />
   <a href="https://www.linkedin.com/in/muhammadsalehjanjua/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
