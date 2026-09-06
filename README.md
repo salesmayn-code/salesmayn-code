@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-## Technology stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,dotnet,python,fastapi&theme=dark&perline=8" alt="Application development technologies" />
@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,terraform,linux,git,githubactions&theme=dark&perline=8" alt="Database and DevOps technologies" />
 </p>
 
-## GitHub activity
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salesmayn-code&theme=tokyonight&hide_border=true" height="175" alt="GitHub contribution streak" />
@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/salesmayn-code/salesmayn-code/profile-assets/activity-graph.svg" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
-## Contribution Snake
+## Contribution 
 
 <p align="center">
   <picture>
@@ -96,7 +96,7 @@
 ---
 
 <p align="center">
-  <b>Open to full-stack, DevOps, and Product Engineering opportunities.</b>
+  <b>Open for work!</b>
   <br /><br />
   <a href="https://www.linkedin.com/in/muhammadsalehjanjua/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
