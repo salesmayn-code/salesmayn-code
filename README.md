@@ -74,28 +74,40 @@
 
 <table>
   <tr>
-    <th align="left" width="22%">Layer</th>
-    <th align="left" width="78%">Tools</th>
+    <td width="50%" valign="top">
+      <strong>Application</strong><br>
+      TypeScript · JavaScript · React · Next.js
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend</strong><br>
+      Node.js · Express · NestJS · Python · FastAPI · .NET
+    </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="22%"><strong>Application</strong></td>
-    <td width="78%">TypeScript · JavaScript · React · Next.js</td>
+    <td width="50%" valign="top">
+      <strong>Data</strong><br>
+      PostgreSQL · SQL Server · SQLite · Prisma
+    </td>
+    <td width="50%" valign="top">
+      <strong>Delivery</strong><br>
+      Jenkins · GitHub Actions · Docker · PM2 · Nginx
+    </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="22%"><strong>Backend</strong></td>
-    <td width="78%">Node.js · Express · NestJS · Python · FastAPI · .NET</td>
-  </tr>
-  <tr>
-    <td width="22%"><strong>Data</strong></td>
-    <td width="78%">PostgreSQL · SQL Server · SQLite · Prisma</td>
-  </tr>
-  <tr>
-    <td width="22%"><strong>Delivery</strong></td>
-    <td width="78%">Jenkins · GitHub Actions · Docker · PM2 · Nginx</td>
-  </tr>
-  <tr>
-    <td width="22%"><strong>Quality</strong></td>
-    <td width="78%">Jest · pytest · Playwright · API testing</td>
+    <td width="50%" valign="top">
+      <strong>Quality</strong><br>
+      Jest · pytest · Playwright · API testing
+    </td>
+    <td width="50%" valign="top">
+      <strong>Security</strong><br>
+      Authentication · RBAC · secrets management
+    </td>
   </tr>
 </table>
 
