@@ -1,66 +1,90 @@
-```
-┌──────────────────────────────────────────────────────┐
-│  muhammad saleh janjua                               │
-│  full-stack software engineer · devops / ci-cd       │
-│  focus: applications · automation · secure delivery  │
-└──────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img src="assets/hero-light.svg" alt="Muhammad Saleh Janjua — full-stack software engineer" width="100%">
+  </picture>
+</p>
 
-### `> whoami`
+<p align="center">
+  I build full-stack applications and the delivery systems that ship them.<br>
+  <sub>Computer Software Engineering · PAF-IAST · 2026</sub>
+</p>
 
-Computer Software Engineering graduate (PAF-IAST, 2026) building full-stack
-applications and the delivery workflows behind them.
+<p align="center">
+  <a href="https://portfolio-salesmayn.vercel.app/"><strong>Portfolio</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammadsalehjanjua"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:MuhammadSalehJanjua@gmail.com"><strong>Email</strong></a>
+</p>
 
-My work spans React/Next.js, TypeScript, Node.js, Python, .NET, relational
-databases, REST APIs, and Jenkins-based CI/CD automation.
+## Selected work
 
-### `> stack.list`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/salesmayn-code/OpsDesk">OpsDesk</a></strong><br>
+      IT service management platform with ticket lifecycles, SLA automation, role-based access, asset management, incident workflows, and audit trails.<br><br>
+      <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/salesmayn-code/MimaarAssociates">Mimaar Associates</a></strong><br>
+      Company website and admin content platform delivered through a Jenkins pipeline to an Ubuntu VM.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Jenkins</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/salesmayn-code/Cryptojacking_Detection_Tool">CryptoDetect</a></strong><br>
+      Cryptojacking detection with a Python monitoring agent, FastAPI backend, React dashboard, and Random Forest/XGBoost models.<br><br>
+      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>scikit-learn</code> <code>XGBoost</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/salesmayn-code/LinkPulse">LinkPulse</a></strong><br>
+      Self-hostable URL shortener with click analytics, link expiration, and per-user ownership controls. In development.<br><br>
+      <code>.NET</code> <code>ASP.NET Core</code> <code>Blazor</code> <code>Clerk</code> <code>SQL Server</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/salesmayn-code/AgileCapacityTracker">Agile Capacity Tracker</a></strong><br>
+      Sprint and team-capacity dashboard with workload charts and GitHub issue synchronization.<br><br>
+      <code>Java</code> <code>Spring Boot</code> <code>Next.js</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/salesmayn-code/portfolio">Portfolio</a></strong><br>
+      The engineering portfolio behind this profile, presenting selected systems and the delivery work around them.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vercel</code>
+    </td>
+  </tr>
+</table>
 
-```
-application   typescript · javascript · react · next.js
-backend       node.js · express · python · fastapi · .net
-data          postgresql · sql server · sqlite · prisma
-delivery      jenkins · github actions · docker · pm2 · nginx
-quality       pytest · jest · playwright · api testing
-```
+<p align="center">
+  <a href="https://github.com/salesmayn-code?tab=repositories">All repositories</a>
+</p>
 
-### `> deployments.list`
+## Stack
 
-**[OpsDesk](https://github.com/salesmayn-code/OpsDesk)** — IT service management
-platform with ticket lifecycles, SLA automation, RBAC, asset management,
-incident workflows, and audit trails.
+| Layer | Tools |
+| :--- | :--- |
+| Application | TypeScript · JavaScript · React · Next.js |
+| Backend | Node.js · Express · NestJS · Python · FastAPI · .NET |
+| Data | PostgreSQL · SQL Server · SQLite · Prisma |
+| Delivery | Jenkins · GitHub Actions · Docker · PM2 · Nginx |
+| Quality | Jest · pytest · Playwright · API testing |
 
-`next.js` `nestjs` `postgresql` `prisma` `redis` `bullmq`
+## Delivery
 
-**[Mimaar Associates — Platform & CI/CD](https://github.com/salesmayn-code/MimaarAssociates)**
+I care about the path from commit to production, not just the application code.
 
-Next.js platform with an automated Jenkins pipeline covering linting, testing,
-database migrations, builds, and Ubuntu/PM2 deployment.
+<p align="center">
+  <code>checkout</code> → <code>install</code> → <code>lint</code> → <code>test</code><br>
+  <code>prisma migrate</code> → <code>build</code> → <code>rsync</code> → <code>pm2 restart</code>
+</p>
 
-`next.js` `typescript` `postgresql` `prisma` `jenkins`
+The Mimaar Associates pipeline runs these stages in Jenkins, injects credentials from the Jenkins credential store, and deploys to an Ubuntu VM behind Nginx with PM2 supervising the process.
 
-**[CryptoDetect](https://github.com/salesmayn-code/Cryptojacking_Detection_Tool)**
+## Currently
 
-Cryptojacking detection system combining a Python monitoring agent, FastAPI
-backend, React dashboard, and machine learning models.
-
-`python` `fastapi` `react` `random forest` `xgboost`
-
-**[LinkPulse](https://github.com/salesmayn-code/LinkPulse)**
-
-Self-hostable URL shortener with click analytics, link expiration, and per-user
-ownership controls.
-
-Status: In development.
-
-`.net` `asp.net core` `blazor` `clerk` `sql server`
-
-**[Agile Capacity Tracker](https://github.com/salesmayn-code/AgileCapacityTracker)**
-
-Full-stack sprint and team-capacity dashboard with GitHub issue synchronization.
-
-`java` `spring boot` `next.js` `postgresql`
-
-### `> connect --open`
-
-[portfolio](https://portfolio-salesmayn.vercel.app/) · [linkedin](https://www.linkedin.com/in/muhammadsalehjanjua) · [email](mailto:MuhammadSalehJanjua@gmail.com)
+Building **OpsDesk** — an IT service management platform with SLA automation, incident and change workflows, and a transactional outbox.

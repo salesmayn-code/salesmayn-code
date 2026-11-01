@@ -1,0 +1,59 @@
+<svg width="900" height="250" viewBox="0 0 900 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muhammad Saleh Janjua, full-stack software engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F1F5F9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D9488"/>
+      <stop offset="1" stop-color="#0284C7" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#E2E8F0" stroke-opacity="0.9"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="250" fill="url(#bg)"/>
+  <rect width="900" height="250" fill="url(#grid)"/>
+  <rect width="5" height="250" fill="url(#accent)"/>
+
+  <text x="48" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.5" fill="#115E59">FULL-STACK SOFTWARE ENGINEER</text>
+  <text x="48" y="118" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="700" fill="#0F172A">Muhammad Saleh Janjua</text>
+  <text x="48" y="154" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#475569">Applications · automation · secure delivery</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#0F172A">
+    <rect x="48" y="182" width="100" height="28" rx="14" fill="#F8FAFC" stroke="#64748B"/>
+    <text x="62" y="200">TypeScript</text>
+    <rect x="156" y="182" width="78" height="28" rx="14" fill="#F8FAFC" stroke="#64748B"/>
+    <text x="170" y="200">Node.js</text>
+    <rect x="242" y="182" width="71" height="28" rx="14" fill="#F8FAFC" stroke="#64748B"/>
+    <text x="256" y="200">Python</text>
+    <rect x="321" y="182" width="57" height="28" rx="14" fill="#F8FAFC" stroke="#64748B"/>
+    <text x="335" y="200">.NET</text>
+    <rect x="386" y="182" width="78" height="28" rx="14" fill="#F8FAFC" stroke="#64748B"/>
+    <text x="400" y="200">Jenkins</text>
+  </g>
+
+  <g>
+    <rect x="590" y="50" width="270" height="186" rx="12" fill="#0E1726" stroke="#243449"/>
+    <path d="M590 62C590 55.3726 595.373 50 602 50H848C854.627 50 860 55.3726 860 62V80H590V62Z" fill="#142033"/>
+    <circle cx="608" cy="65" r="3.5" fill="#F87171"/>
+    <circle cx="621" cy="65" r="3.5" fill="#FBBF24"/>
+    <circle cx="634" cy="65" r="3.5" fill="#34D399"/>
+    <text x="650" y="69" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#64748B">saleh@portfolio: ~</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <text x="608" y="106" fill="#5EEAD4">$</text>
+      <text x="622" y="106" fill="#CBD5E1">whoami</text>
+      <text x="622" y="127" fill="#94A3B8">full-stack software engineer</text>
+
+      <text x="608" y="152" fill="#5EEAD4">$</text>
+      <text x="622" y="152" fill="#CBD5E1">currently</text>
+      <text x="622" y="173" fill="#94A3B8">building opsdesk</text>
+
+      <text x="608" y="198" fill="#5EEAD4">$</text>
+      <text x="622" y="198" fill="#CBD5E1">status</text>
+      <text x="622" y="219" fill="#34D399">shipping</text>
+    </g>
+  </g>
+</svg>
