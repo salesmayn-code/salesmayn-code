@@ -24,6 +24,22 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <strong><a href="https://github.com/salesmayn-code/libaas-kiraya">Libaas Kiraya</a></strong><br>
+      <code>Medusa v2</code> <code>Next.js</code> <code>PostgreSQL</code> <code>TypeScript</code><br><br>
+      Multi-vendor occasion-wear rental marketplace with vendor onboarding, date-aware availability, checkout, deposits, inspections, disputes, and payouts. In development.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://portfolio-salesmayn.vercel.app/projects#hrms">HRMS Pakistan</a></strong><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code><br><br>
+      HR management system covering employee records, attendance, leave, compensation, payroll, approvals, and reporting. Private build at Netlogg.ai.
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/OpsDesk">OpsDesk</a></strong><br>
       <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Redis</code><br><br>
       IT service management platform with ticket lifecycles, SLA automation, role-based access, asset management, incident workflows, and audit trails.
@@ -91,4 +107,4 @@ The Mimaar Associates pipeline runs these stages in Jenkins, injects credentials
 
 ## Currently
 
-Building **OpsDesk** — an IT service management platform with SLA automation, incident and change workflows, and a transactional outbox.
+Recently shipped **HRMS Pakistan** at **Netlogg.ai** — an HR management system covering records, attendance, leave, payroll, approvals, and reporting.
