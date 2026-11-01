@@ -85,24 +85,18 @@
       APIs, background jobs, and domain workflows
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <strong>Data</strong><br>
-      PostgreSQL · SQL Server · SQLite · Prisma<br>
-      Schemas, migrations, and queries
+      PostgreSQL · SQL Server · SQLite · Prisma · Redis<br>
+      Schemas, migrations, queries, and caching
     </td>
     <td width="50%" valign="top">
       <strong>Delivery</strong><br>
       Jenkins · GitHub Actions · Docker · PM2 · Nginx<br>
-      Pipelines and production deployments
+      Pipelines, containers, and production deployments
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <strong>Quality</strong><br>
@@ -116,7 +110,6 @@
     </td>
   </tr>
 </table>
-
 ## Delivery
 
 I care about the path from commit to production, not just the application code.
