@@ -25,12 +25,12 @@
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/OpsDesk">OpsDesk</a></strong><br>
-      <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code><br><br>
+      <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Redis</code><br><br>
       IT service management platform with ticket lifecycles, SLA automation, role-based access, asset management, incident workflows, and audit trails.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/MimaarAssociates">Mimaar Associates</a></strong><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Jenkins</code><br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Jenkins</code><br><br>
       Company website and admin content platform delivered through a Jenkins pipeline to an Ubuntu VM.
     </td>
   </tr>
@@ -40,12 +40,12 @@
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/Cryptojacking_Detection_Tool">CryptoDetect</a></strong><br>
-      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>scikit-learn</code> <code>XGBoost</code><br><br>
+      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>XGBoost</code><br><br>
       Cryptojacking detection with a Python monitoring agent, FastAPI backend, React dashboard, and Random Forest/XGBoost models.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/LinkPulse">LinkPulse</a></strong><br>
-      <code>.NET</code> <code>ASP.NET Core</code> <code>Blazor</code> <code>Clerk</code> <code>SQL Server</code><br><br>
+      <code>.NET</code> <code>ASP.NET Core</code> <code>Blazor</code> <code>SQL Server</code><br><br>
       Self-hostable URL shortener with click analytics, link expiration, and per-user ownership controls. In development.
     </td>
   </tr>
@@ -76,11 +76,13 @@
   <tr>
     <td width="50%" valign="top">
       <strong>Application</strong><br>
-      TypeScript · JavaScript · React · Next.js
+      TypeScript · JavaScript · React · Next.js<br>
+      Interfaces, state, and client data
     </td>
     <td width="50%" valign="top">
       <strong>Backend</strong><br>
-      Node.js · Express · NestJS · Python · FastAPI · .NET
+      Node.js · Express · NestJS · Python · FastAPI · .NET<br>
+      APIs, background jobs, and domain workflows
     </td>
   </tr>
 </table>
@@ -89,11 +91,13 @@
   <tr>
     <td width="50%" valign="top">
       <strong>Data</strong><br>
-      PostgreSQL · SQL Server · SQLite · Prisma
+      PostgreSQL · SQL Server · SQLite · Prisma<br>
+      Schemas, migrations, and queries
     </td>
     <td width="50%" valign="top">
       <strong>Delivery</strong><br>
-      Jenkins · GitHub Actions · Docker · PM2 · Nginx
+      Jenkins · GitHub Actions · Docker · PM2 · Nginx<br>
+      Pipelines and production deployments
     </td>
   </tr>
 </table>
@@ -102,11 +106,13 @@
   <tr>
     <td width="50%" valign="top">
       <strong>Quality</strong><br>
-      Jest · pytest · Playwright · API testing
+      Jest · pytest · Playwright · API testing<br>
+      Unit, integration, and end-to-end tests
     </td>
     <td width="50%" valign="top">
       <strong>Security</strong><br>
-      Authentication · RBAC · secrets management
+      Authentication · RBAC · secrets management<br>
+      Access control and audit trails
     </td>
   </tr>
 </table>
