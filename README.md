@@ -72,44 +72,12 @@
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Application</strong><br>
-      TypeScript · JavaScript · React · Next.js<br>
-      Interfaces, state, and client data
-    </td>
-    <td width="50%" valign="top">
-      <strong>Backend</strong><br>
-      Node.js · Express · NestJS · Python · FastAPI · .NET<br>
-      APIs, background jobs, and domain workflows
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Data</strong><br>
-      PostgreSQL · SQL Server · SQLite · Prisma · Redis<br>
-      Schemas, migrations, queries, and caching
-    </td>
-    <td width="50%" valign="top">
-      <strong>Delivery</strong><br>
-      Jenkins · GitHub Actions · Docker · PM2 · Nginx<br>
-      Pipelines, containers, and production deployments
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Quality</strong><br>
-      Jest · pytest · Playwright · API testing<br>
-      Unit, integration, and end-to-end tests
-    </td>
-    <td width="50%" valign="top">
-      <strong>Security</strong><br>
-      Authentication · RBAC · secrets management<br>
-      Access control and audit trails
-    </td>
-  </tr>
-</table>
+- **Application** — TypeScript · JavaScript · React · Next.js · Tailwind CSS
+- **Backend** — Node.js · Express · NestJS · Python · FastAPI · .NET
+- **Data** — PostgreSQL · SQL Server · SQLite · Prisma · Redis
+- **Delivery** — Jenkins · GitHub Actions · Docker · PM2 · Nginx
+- **Quality** — Jest · pytest · Playwright · API testing
+- **Security** — Authentication · RBAC · secrets management · audit trails
 ## Delivery
 
 I care about the path from commit to production, not just the application code.
