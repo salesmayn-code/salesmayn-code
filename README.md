@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img src="assets/hero-light.svg" alt="Muhammad Saleh Janjua — AI-augmented software engineer" width="100%">
+    <img src="assets/hero-light.svg" alt="Muhammad Saleh Janjua, AI-augmented software engineer" width="100%">
   </picture>
 </p>
 
@@ -89,13 +89,13 @@
 
 ## Stack
 
-- **Application** — TypeScript · JavaScript · React · Next.js · Tailwind CSS
-- **Backend** — Node.js · Express · NestJS · Python · FastAPI · .NET
-- **Data** — PostgreSQL · SQL Server · SQLite · Prisma · Redis
-- **Delivery** — Jenkins · GitHub Actions · Docker · PM2 · Nginx
-- **Quality** — Jest · pytest · Playwright · API testing
-- **Security** — Authentication · RBAC · secrets management · audit trails
-- **AI** — agentic implementation · AI test generation · code review
+- **Application**: TypeScript · JavaScript · React · Next.js · Tailwind CSS
+- **Backend**: Node.js · Express · NestJS · Python · FastAPI · .NET
+- **Data**: PostgreSQL · SQL Server · SQLite · Prisma · Redis
+- **Delivery**: Jenkins · GitHub Actions · Docker · PM2 · Nginx
+- **Quality**: Jest · pytest · Playwright · API testing
+- **Security**: Authentication · RBAC · secrets management · audit trails
+- **AI**: agentic implementation · AI test generation · code review
 ## Delivery
 
 I care about the path from commit to production, not just the application code.
@@ -109,4 +109,4 @@ The Mimaar Associates pipeline runs these stages in Jenkins, injects credentials
 
 ## Currently
 
-Recently shipped **HRMS Pakistan** at **Netlogg.ai** — an HR management system covering records, attendance, leave, payroll, approvals, and reporting.
+Recently shipped **HRMS Pakistan** at **Netlogg.ai**: an HR management system covering records, attendance, leave, payroll, approvals, and reporting.
