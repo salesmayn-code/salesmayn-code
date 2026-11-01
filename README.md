@@ -66,13 +66,32 @@
 
 ## Stack
 
-| Layer | Tools |
-| :--- | :--- |
-| Application | TypeScript · JavaScript · React · Next.js |
-| Backend | Node.js · Express · NestJS · Python · FastAPI · .NET |
-| Data | PostgreSQL · SQL Server · SQLite · Prisma |
-| Delivery | Jenkins · GitHub Actions · Docker · PM2 · Nginx |
-| Quality | Jest · pytest · Playwright · API testing |
+<table width="100%">
+  <tr>
+    <th align="left" width="22%">Layer</th>
+    <th align="left">Tools</th>
+  </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>TypeScript · JavaScript · React · Next.js</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · Express · NestJS · Python · FastAPI · .NET</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL · SQL Server · SQLite · Prisma</td>
+  </tr>
+  <tr>
+    <td><strong>Delivery</strong></td>
+    <td>Jenkins · GitHub Actions · Docker · PM2 · Nginx</td>
+  </tr>
+  <tr>
+    <td><strong>Quality</strong></td>
+    <td>Jest · pytest · Playwright · API testing</td>
+  </tr>
+</table>
 
 ## Delivery
 
