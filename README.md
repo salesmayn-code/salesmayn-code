@@ -2,12 +2,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img src="assets/hero-light.svg" alt="Muhammad Saleh Janjua — full-stack software engineer" width="100%">
+    <img src="assets/hero-light.svg" alt="Muhammad Saleh Janjua — AI-augmented software engineer" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  I build full-stack applications and the delivery systems that ship them.<br>
+  I build full-stack systems and the delivery workflows that ship them.<br>
+  TypeScript · Python · C# · Java · AI-assisted delivery<br>
   Computer Software Engineering · PAF-IAST · 2026
 </p>
 
@@ -94,6 +95,7 @@
 - **Delivery** — Jenkins · GitHub Actions · Docker · PM2 · Nginx
 - **Quality** — Jest · pytest · Playwright · API testing
 - **Security** — Authentication · RBAC · secrets management · audit trails
+- **AI** — agentic implementation · AI test generation · code review
 ## Delivery
 
 I care about the path from commit to production, not just the application code.
