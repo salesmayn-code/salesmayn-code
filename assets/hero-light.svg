@@ -35,25 +35,25 @@
   </g>
 
   <g>
-    <rect x="590" y="50" width="270" height="186" rx="12" fill="#0E1726" stroke="#243449"/>
-    <path d="M590 62C590 55.3726 595.373 50 602 50H848C854.627 50 860 55.3726 860 62V80H590V62Z" fill="#142033"/>
-    <circle cx="608" cy="65" r="3.5" fill="#F87171"/>
-    <circle cx="621" cy="65" r="3.5" fill="#FBBF24"/>
-    <circle cx="634" cy="65" r="3.5" fill="#34D399"/>
-    <text x="650" y="69" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#64748B">saleh@portfolio: ~</text>
+    <rect x="590" y="32" width="270" height="186" rx="12" fill="#0E1726" stroke="#243449"/>
+    <path d="M590 44C590 37.3726 595.373 32 602 32H848C854.627 32 860 37.3726 860 44V62H590V44Z" fill="#142033"/>
+    <circle cx="608" cy="47" r="3.5" fill="#F87171"/>
+    <circle cx="621" cy="47" r="3.5" fill="#FBBF24"/>
+    <circle cx="634" cy="47" r="3.5" fill="#34D399"/>
+    <text x="650" y="51" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#64748B">saleh@portfolio: ~</text>
 
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
-      <text x="608" y="106" fill="#5EEAD4">$</text>
-      <text x="622" y="106" fill="#CBD5E1">whoami</text>
-      <text x="622" y="127" fill="#94A3B8">full-stack software engineer</text>
+      <text x="608" y="88" fill="#5EEAD4">$</text>
+      <text x="622" y="88" fill="#CBD5E1">whoami</text>
+      <text x="622" y="109" fill="#94A3B8">full-stack software engineer</text>
 
-      <text x="608" y="152" fill="#5EEAD4">$</text>
-      <text x="622" y="152" fill="#CBD5E1">currently</text>
-      <text x="622" y="173" fill="#94A3B8">building opsdesk</text>
+      <text x="608" y="134" fill="#5EEAD4">$</text>
+      <text x="622" y="134" fill="#CBD5E1">currently</text>
+      <text x="622" y="155" fill="#94A3B8">building opsdesk</text>
 
-      <text x="608" y="198" fill="#5EEAD4">$</text>
-      <text x="622" y="198" fill="#CBD5E1">status</text>
-      <text x="622" y="219" fill="#34D399">shipping</text>
+      <text x="608" y="180" fill="#5EEAD4">$</text>
+      <text x="622" y="180" fill="#CBD5E1">status</text>
+      <text x="622" y="201" fill="#34D399">shipping</text>
     </g>
   </g>
 </svg>

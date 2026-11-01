@@ -8,7 +8,7 @@
 
 <p align="center">
   I build full-stack applications and the delivery systems that ship them.<br>
-  <sub>Computer Software Engineering · PAF-IAST · 2026</sub>
+  Computer Software Engineering · PAF-IAST · 2026
 </p>
 
 <p align="center">
@@ -25,37 +25,43 @@
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/OpsDesk">OpsDesk</a></strong><br>
-      IT service management platform with ticket lifecycles, SLA automation, role-based access, asset management, incident workflows, and audit trails.<br><br>
-      <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code>
+      <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code><br><br>
+      IT service management platform with ticket lifecycles, SLA automation, role-based access, asset management, incident workflows, and audit trails.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/MimaarAssociates">Mimaar Associates</a></strong><br>
-      Company website and admin content platform delivered through a Jenkins pipeline to an Ubuntu VM.<br><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Jenkins</code>
+      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Jenkins</code><br><br>
+      Company website and admin content platform delivered through a Jenkins pipeline to an Ubuntu VM.
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/Cryptojacking_Detection_Tool">CryptoDetect</a></strong><br>
-      Cryptojacking detection with a Python monitoring agent, FastAPI backend, React dashboard, and Random Forest/XGBoost models.<br><br>
-      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>scikit-learn</code> <code>XGBoost</code>
+      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>scikit-learn</code> <code>XGBoost</code><br><br>
+      Cryptojacking detection with a Python monitoring agent, FastAPI backend, React dashboard, and Random Forest/XGBoost models.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/LinkPulse">LinkPulse</a></strong><br>
-      Self-hostable URL shortener with click analytics, link expiration, and per-user ownership controls. In development.<br><br>
-      <code>.NET</code> <code>ASP.NET Core</code> <code>Blazor</code> <code>Clerk</code> <code>SQL Server</code>
+      <code>.NET</code> <code>ASP.NET Core</code> <code>Blazor</code> <code>Clerk</code> <code>SQL Server</code><br><br>
+      Self-hostable URL shortener with click analytics, link expiration, and per-user ownership controls. In development.
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/AgileCapacityTracker">Agile Capacity Tracker</a></strong><br>
-      Sprint and team-capacity dashboard with workload charts and GitHub issue synchronization.<br><br>
-      <code>Java</code> <code>Spring Boot</code> <code>Next.js</code> <code>PostgreSQL</code>
+      <code>Java</code> <code>Spring Boot</code> <code>Next.js</code> <code>PostgreSQL</code><br><br>
+      Sprint and team-capacity dashboard with workload charts and GitHub issue synchronization.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/salesmayn-code/portfolio">Portfolio</a></strong><br>
-      The engineering portfolio behind this profile, presenting selected systems and the delivery work around them.<br><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vercel</code>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vercel</code><br><br>
+      The engineering portfolio behind this profile, presenting selected systems and the delivery work around them.
     </td>
   </tr>
 </table>
@@ -66,30 +72,30 @@
 
 ## Stack
 
-<table width="100%">
+<table>
   <tr>
     <th align="left" width="22%">Layer</th>
-    <th align="left">Tools</th>
+    <th align="left" width="78%">Tools</th>
   </tr>
   <tr>
-    <td><strong>Application</strong></td>
-    <td>TypeScript · JavaScript · React · Next.js</td>
+    <td width="22%"><strong>Application</strong></td>
+    <td width="78%">TypeScript · JavaScript · React · Next.js</td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js · Express · NestJS · Python · FastAPI · .NET</td>
+    <td width="22%"><strong>Backend</strong></td>
+    <td width="78%">Node.js · Express · NestJS · Python · FastAPI · .NET</td>
   </tr>
   <tr>
-    <td><strong>Data</strong></td>
-    <td>PostgreSQL · SQL Server · SQLite · Prisma</td>
+    <td width="22%"><strong>Data</strong></td>
+    <td width="78%">PostgreSQL · SQL Server · SQLite · Prisma</td>
   </tr>
   <tr>
-    <td><strong>Delivery</strong></td>
-    <td>Jenkins · GitHub Actions · Docker · PM2 · Nginx</td>
+    <td width="22%"><strong>Delivery</strong></td>
+    <td width="78%">Jenkins · GitHub Actions · Docker · PM2 · Nginx</td>
   </tr>
   <tr>
-    <td><strong>Quality</strong></td>
-    <td>Jest · pytest · Playwright · API testing</td>
+    <td width="22%"><strong>Quality</strong></td>
+    <td width="78%">Jest · pytest · Playwright · API testing</td>
   </tr>
 </table>
 
@@ -97,7 +103,7 @@
 
 I care about the path from commit to production, not just the application code.
 
-<p align="center">
+<p>
   <code>checkout</code> → <code>install</code> → <code>lint</code> → <code>test</code><br>
   <code>prisma migrate</code> → <code>build</code> → <code>rsync</code> → <code>pm2 restart</code>
 </p>
