@@ -82,10 +82,10 @@
 
 I care about the path from commit to production, not just the application code.
 
-<p>
-  <code>checkout</code> → <code>install</code> → <code>lint</code> → <code>test</code><br>
-  <code>prisma migrate</code> → <code>build</code> → <code>rsync</code> → <code>pm2 restart</code>
-</p>
+```text
+checkout → install → lint → test
+prisma migrate → build → rsync → pm2 restart
+```
 
 The Mimaar Associates pipeline runs these stages in Jenkins, injects credentials from the Jenkins credential store, and deploys to an Ubuntu VM behind Nginx with PM2 supervising the process.
 
